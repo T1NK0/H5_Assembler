@@ -1,0 +1,8 @@
+function bitwiseOperations 0
+    push temp 0
+    push temp 1
+    and
+    push temp 0
+    push temp 1
+    or
+    return

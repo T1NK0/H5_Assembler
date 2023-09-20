@@ -1,0 +1,7 @@
+push argument 5
+push argument 10
+add
+push argument 0
+push argument 1
+sub
+return

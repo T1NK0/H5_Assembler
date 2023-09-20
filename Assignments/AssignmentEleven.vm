@@ -1,0 +1,4 @@
+push static 0
+push static 1
+push static 2
+pop pointer 0

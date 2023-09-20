@@ -1,0 +1,4 @@
+push local 3
+push argument 1
+sub
+pop temp 3
